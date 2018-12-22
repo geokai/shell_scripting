@@ -1,0 +1,6 @@
+Roses are red.
+Violets are blue.
+Let's see what else
+vim and sed do.
+
+A new paragraph.

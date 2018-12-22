@@ -1,0 +1,18 @@
+ranges {}
+-n
+p/d
+;
+=/n
+P/D/N
+q
+-f
+#
+y///
+s///p
+s///I
+s///w
+r,w
+l
+a/i/c
+x/h/H/g/G
+:/b/t
