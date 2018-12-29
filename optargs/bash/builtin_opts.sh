@@ -12,7 +12,7 @@ die() {
 
 
 show_usage() {
-    printf "\n${INFO}USAGE${RESET}: $(basename $0) <options>\n\n"
+    printf "\n${INFO}USAGE${RESET}: $(basename $0) [-h|-v] [-f <arg>]\n\n"
 }
 
 
