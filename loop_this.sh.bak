@@ -6,7 +6,7 @@
 # This script runs a simple while loop in terms of the resource ($1) and the
 # interval in seconds ($2):
 
-source ~/bin/local/greenbar2.sh
+source $HOME/bin/local/greenbar2.sh
 trap 'tput cnorm; ' EXIT  # reset cursor
 tput civis  # hide cursor
 

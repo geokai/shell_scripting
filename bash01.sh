@@ -4,9 +4,9 @@ echo
 echo $0
 echo
 
-if [ $USER = "pi" ]
+if [ $USER = "geoptus" ]
     then
-        echo "Hello $1!"
+        echo "Hello $USER!"
     else
         echo "Bye"
 fi

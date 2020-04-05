@@ -9,7 +9,7 @@ usage() {
     exit 1
 }
 
-
+echo "This program adds two integers."
 read -p "Enter two numbers: " x y
 
 if [ "$x" -eq "$x" ] 2>/dev/null && [ "$y" -eq "$y" ] 2>/dev/null ; then
