@@ -2,7 +2,7 @@
 # traptest.sh
 # This file was created on 17/10/18
 
-trap 'printf "\n"; exit 42' 15
+trap 'printf "\nquitting\n";sleep 0.5; exit 0' 2 15
 
 echo "pid is $$"
 
