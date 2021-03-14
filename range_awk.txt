@@ -1,0 +1,1 @@
+cat -n < wttr_loop | awk "NR>=${strt} && NR<=${end}  {print}"

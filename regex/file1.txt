@@ -1,0 +1,61 @@
+line 1 cat and dog
+line 2 dog
+line 3 cat
+
+line 4 cat followed by dog
+ #this line 5 is commented but starts with a space
+  #there we start with 2 spaces on line 6
+	#here we start with
+
+
+ a TAB on line 7
+#this is commented as line 8
+
+dog then cat
+cat then dog
+dogfood for dog
+catfood for cat
+
+underdog beats cat
+aristocat trumps dog
+
+Using the key-binding;
+nnoremap Q !!sh<cr>
+
+figlet "awesome" 
+
+                                              
+  __ ___      _____  ___  ___  _ __ ___   ___ 
+ / _` \ \ /\ / / _ \/ __|/ _ \| '_ ` _ \ / _ \
+| (_| |\ V  V /  __/\__ \ (_) | | | | | |  __/
+ \__,_| \_/\_/ \___||___/\___/|_| |_| |_|\___|
+                                              
+
+getent passwd | cut -d: -f1
+
+root
+bin
+daemon
+mail
+ftp
+http
+nobody
+dbus
+systemd-journal-remote
+systemd-network
+systemd-resolve
+systemd-timesync
+systemd-coredump
+uuidd
+polkitd
+geoptus
+git
+avahi
+colord
+mpd
+rtkit
+ntp
+dhcpcd
+nvidia-persistenced
+named
+
